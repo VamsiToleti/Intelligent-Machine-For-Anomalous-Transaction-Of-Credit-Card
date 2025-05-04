@@ -1,0 +1,3 @@
+Amount,Old Balance (Origin),New Balance (Origin),Old Balance (Destination),New Balance (Destination),Transaction Type,output,timestamp
+4653,1862,2896,5656,7878,DEBIT,Non-Fraudulent,2025-01-04 12:31:39.239503
+0,0,0,0,0,CASH_IN,,2025-01-05 20:41:30.680923
